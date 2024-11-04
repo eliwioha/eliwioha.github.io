@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eliwioha.github.io/Cop/sitemap_index.txt
+Sitemap: https://eliwioha.github.io/FSE/sitemap_index.txt
+Sitemap: https://eliwioha.github.io/TXi/sitemap_index.txt
+Sitemap: https://eliwioha.github.io/rDW/sitemap_index.txt
